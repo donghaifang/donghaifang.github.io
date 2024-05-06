@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Biography
-======
 Currently, I am a graduate student enrolled at the School of [Information Science and Engineering](http://www.ise.ynu.edu.cn/) at  [Yunnan University](http://www.ynu.edu.cn/),  imbued with the essence of learning amidst the picturesque landscapes of Yunnan.   
 
 Research Interests
