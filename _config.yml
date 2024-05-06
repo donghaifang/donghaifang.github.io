@@ -12,7 +12,7 @@ title                    : "Donghai's Home"
 title_separator          : "-"
 name                     : &name "Donghai Fang"
 description              : &description "I am a student!"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://donghaifang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
