@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Donghai Fang / Personal Homepage"
+title                    : "Donghai's Home"
 title_separator          : "-"
 name                     : &name "Donghai Fang"
 description              : &description "I am a student!"
