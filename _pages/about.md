@@ -20,34 +20,34 @@ redirect_from:
 
 ### 📄 学术成果 
 &nbsp; 📝 **已发表**:  
-1. Wenwen Min# (指导老师), **Donghai Fang# (共一)**, J Chen, S Zhang. (2025).  
-   *SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics*.
-   **PLOS Computational Biology**.
+1. Wenwen Min# (指导老师), **Donghai Fang# (共一)**, J Chen, S Zhang. (2025).  <br>
+   *SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics*. <br>
+   **PLOS Computational Biology**. <br>
    [DOI: 10.1371/journal.pcbi.1012881](https://doi.org/10.1371/journal.pcbi.1012881). ( 生物信息学邻域 Top 期刊，SCI 二区，与指导老师**共一** ). 
 
-3. **Donghai Fang**, F Zhu, W Min. (2024).  
-   *Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net*.  
-   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**.
+3. **Donghai Fang**, F Zhu, W Min. (2024).  <br>
+   *Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net*.  <br>
+   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**. <br>
    [DOI:10.1109/BIBM62325.2024.10822331](https://doi.org/10.1109/BIBM62325.2024.10822331). ( CCF B 类会议，一作 ).  
 
-5. **Donghai Fang**, F Zhu, D Xie, W Min. (2024).  
-   *Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data*.  
-   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**.
+5. **Donghai Fang**, F Zhu, D Xie, W Min. (2024).  <br>
+   *Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data*.   <br>
+   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**. <br>
    [DOI:10.1109/BIBM62325.2024.10822738](https://doi.org/10.1109/BIBM62325.2024.10822738).  ( CCF B 类会议，一作 ).  
 
-7. **Donghai Fang**, Y Gao, Z Wang, F Zhu, W Min. (2024).  
-   *Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis*.  
-   **International Symposium on Bioinformatics Research and Applications (ISBRA) 2024**.
+7. **Donghai Fang**, Y Gao, Z Wang, F Zhu, W Min. (2024).  <br>
+   *Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis*.  <br>
+   **International Symposium on Bioinformatics Research and Applications (ISBRA) 2024**. <br>
    [DOI:10.1007/978-981-97-5128-0_7](https://doi.org/10.1007/978-981-97-5128-0_7).  (CCF C 类会议，一作 ). 
 
-9. J Niu#, F Zhu#, **Donghai Fang**, W Min. (2024).
-   *SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics Using VGAE*.
-   **Interdisciplinary Sciences: Computational Life Sciences**.
+9. J Niu#, F Zhu#, **Donghai Fang**, W Min. (2024). <br>
+   *SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics Using VGAE*. <br>
+   **Interdisciplinary Sciences: Computational Life Sciences**. <br>
    [DOI: 10.1007/s12539-024-00676-1](https://doi.org/10.1007/s12539-024-00676-1). ( SCI 二区，二作 ). 
 
 &nbsp; 🎯 **在投**:  
-1. **Donghai Fang**, W Min. (2025).  
-   *SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics*.  
+1. **Donghai Fang**, W Min. (2025).  <br>
+   *SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics*.  <br>
    **Communications Biology**. ( SCI 一区，在投，一作 ). 
 
 &nbsp; 🔬 **在做**: 
