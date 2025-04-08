@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "personal.png"
-  name             : "Donghai Fang"
+  name             : "Donghai Fang (方东海)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Deep learning; AI in Biomedicine; Spatial Transcriptomics"
   location         : "Kunming, Yunnan Province, China"
   employer         : "Yunnan University"
   uri              : # URL
