@@ -23,7 +23,7 @@ redirect_from:
 1. Wenwen Min# ([指导老师](http://www.ise.ynu.edu.cn/teacher/990)), **Donghai Fang# (共一)**, J Chen, S Zhang. (2025).  <br>
    *SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics*. <br>
    **PLOS Computational Biology**. <br>
-   [DOI: 10.1371/journal.pcbi.1012881](https://doi.org/10.1371/journal.pcbi.1012881). ( 生物信息学邻域 Top 期刊，SCI 二区，与指导老师**共一** ). 
+   [DOI: 10.1371/journal.pcbi.1012881](https://doi.org/10.1371/journal.pcbi.1012881). ( 生物信息学邻域 Top 期刊，SCI 二区，与导**共一** ). 
 
 3. **Donghai Fang**, F Zhu, W Min. (2024).  <br>
    *Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net*.  <br>
