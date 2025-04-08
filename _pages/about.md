@@ -21,35 +21,34 @@ redirect_from:
 ### 📄 学术成果 
 &nbsp; 📝 **已发表**:  
 1. Wenwen Min# (指导老师), **Donghai Fang# (共一)**, J Chen, S Zhang. (2025).  
-   *SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics*.  
-   **PLOS Computational Biology**. [DOI:10.1371/journal.pcbi.1012881](https://doi.org/10.1371/journal.pcbi.1012881). 
-   > 生物信息学 Top 期刊，SCI 二区 ，与指导老师共一
+   *SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics*.
+   **PLOS Computational Biology**.
+   [DOI: 10.1371/journal.pcbi.1012881](https://doi.org/10.1371/journal.pcbi.1012881). ( 生物信息学邻域 Top 期刊，SCI 二区，与指导老师**共一** ). 
 
-2. **Donghai Fang**, F Zhu, W Min. (2024).  
+3. **Donghai Fang**, F Zhu, W Min. (2024).  
    *Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net*.  
-   **IEEE BIBM 2024**. [DOI:10.1109/BIBM62325.2024.10822331](https://doi.org/10.1109/BIBM62325.2024.10822331). 
-   > CCF B 类会议，一作  
+   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**.
+   [DOI:10.1109/BIBM62325.2024.10822331](https://doi.org/10.1109/BIBM62325.2024.10822331). ( CCF B 类会议，一作 ).  
 
-3. **Donghai Fang**, F Zhu, D Xie, W Min. (2024).  
+5. **Donghai Fang**, F Zhu, D Xie, W Min. (2024).  
    *Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data*.  
-   **IEEE BIBM 2024**. [DOI:10.1109/BIBM62325.2024.10822738](https://doi.org/10.1109/BIBM62325.2024.10822738).  
-   > CCF B 类会议，一作  
+   **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024**.
+   [DOI:10.1109/BIBM62325.2024.10822738](https://doi.org/10.1109/BIBM62325.2024.10822738).  ( CCF B 类会议，一作 ).  
 
-4. **Donghai Fang**, Y Gao, Z Wang, F Zhu, W Min. (2024).  
+7. **Donghai Fang**, Y Gao, Z Wang, F Zhu, W Min. (2024).  
    *Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis*.  
-   **International Symposium on Bioinformatics Research and Applications**. [DOI:10.1007/978-981-97-5128-0_7](https://doi.org/10.1007/978-981-97-5128-0_7).  
-   > CCF C 类会议，一作
+   **International Symposium on Bioinformatics Research and Applications (ISBRA) 2024**.
+   [DOI:10.1007/978-981-97-5128-0_7](https://doi.org/10.1007/978-981-97-5128-0_7).  (CCF C 类会议，一作 ). 
 
-5. J Niu, F Zhu, **Donghai Fang**, W Min. (2024).
+9. J Niu#, F Zhu#, **Donghai Fang**, W Min. (2024).
    *SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics Using VGAE*.
-   **Interdisciplinary Sciences: Computational Life Sciences**. [DOI: 10.1007/s12539-024-00676-1](https://doi.org/10.1007/s12539-024-00676-1).
-   > SCI 二区
+   **Interdisciplinary Sciences: Computational Life Sciences**.
+   [DOI: 10.1007/s12539-024-00676-1](https://doi.org/10.1007/s12539-024-00676-1). ( SCI 二区，二作 ). 
 
 &nbsp; 🎯 **在投**:  
 1. **Donghai Fang**, W Min. (2025).  
    *SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics*.  
-   **Communications Biology**. 
-   > SCI 一区，在投，一作
+   **Communications Biology**. ( SCI 一区，在投，一作 ). 
 
 &nbsp; 🔬 **在做**: 
 1. 开发一种基于单细胞转录组参考数据的多切片空间转录组学数据整合方法，实现跨切片的**批次效应消除**与**空间结构对齐**。在此基础上，方法将同时执行空间域识别与细胞类型去卷积任务，从而重构组织的空间异质性与细胞组成。
